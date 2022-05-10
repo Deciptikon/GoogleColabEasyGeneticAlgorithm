@@ -1,0 +1,2 @@
+# GoogleColabEasyGeneticAlgorithm
+Простой генетический алгоритм
